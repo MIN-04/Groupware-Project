@@ -1,5 +1,5 @@
 # Groupware-Project
-3차 프로젝트 : 그룹웨어 프로젝트
+[쌍용강북교육센터] 3차 프로젝트 : Groupware - April
 
 
 # April
