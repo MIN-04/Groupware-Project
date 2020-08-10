@@ -1,11 +1,11 @@
 # Groupware-Project
-[쌍용강북교육센터] 3차 프로젝트 : Groupware - April
+3차 프로젝트 : 그룹웨어 프로젝트
 
 
 # April
 
-### 1. 프로젝트명
-    - April Groupware
+### 1. 프로젝트명 / 팀명
+    - Groupware / 
    
     
 ### 2. 팀원 / 팀장
