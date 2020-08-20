@@ -29,9 +29,3 @@
 ### 5. 개발아키텍쳐 : MVC
 ![April_WBS](https://github.com/HYKim8/April/blob/master/aprilPrj/src/main/webapp/WEB-INF/doc/April_MVC.png "April_MVC")
 
-### 6. 개발 목록
-### 7. 단위테스트
-### 8. 통합테스트
-### 9. 이행
-### 10. 개발 URL  
-
