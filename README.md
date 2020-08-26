@@ -1,6 +1,7 @@
 # Groupware-Project
 [쌍용강북교육센터] 3차 프로젝트 : Groupware - April (프로젝트 기간 : 2020.03 - 2020.05)
 
+
 # April
 
 ### 1. 프로젝트명 / 팀명
@@ -23,6 +24,7 @@
                 - check box로 여러개 메일 삭제 기능
         - 1.3) 보낸 메일함 페이지 : 내가 보낸 메일 목록 Retrieve (클릭 시, 내용 확인 가능)
         - 1.4) 휴지통 페이지 : 삭제한 메일 목록 Retrieve (클릭 시, 내용 확인 가능)
+    
     - 2) 관리자 : 김주희
     - 3) 전사게시판 : 양은영
     - 4) 업무등록 : 이재원
@@ -43,39 +45,50 @@
 
 ### 5. 프로젝트 화면 구성
 1. 업무 연락 : 김민지
-    + Email Alarm 기능 : 최근 30분 이내에 수신 받은 업무 연락(메일)을 상단바 아이콘에 띄우기
+    + Email Alarm 기능 : 최근 30분 이내에 수신 받은 업무 연락(메일)을 상단바 아이콘에 띄우기  
+    
     ![April_메일_받은메일_알람.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EB%A9%94%EC%9D%BC_%EB%B0%9B%EC%9D%80%EB%A9%94%EC%9D%BC_%EC%95%8C%EB%9E%8C.png "April_메일_받은메일_알람.png")
     
-    + 받은 메일함
+    + 받은 메일함  
+    
     ![April_메일_받은메일함.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EB%A9%94%EC%9D%BC_%EB%B0%9B%EC%9D%80%EB%A9%94%EC%9D%BC%ED%95%A8.png "April_메일_받은메일함.png")
     
-    + 보낸 메일함
+    + 보낸 메일함  
+    
     ![April_메일_보낸메일함.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EB%A9%94%EC%9D%BC_%EB%B3%B4%EB%82%B8%EB%A9%94%EC%9D%BC%ED%95%A8.png "April_메일_보낸메일함.png")
     
-    + 답장
+    + 답장  
+    
     ![April_메일_답장.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EB%A9%94%EC%9D%BC_%EB%8B%B5%EC%9E%A5.png "April_메일_답장.png")
     
-    + 휴지통
+    + 휴지통  
+    
     ![April_메일_휴지통.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EB%A9%94%EC%9D%BC_%ED%9C%B4%EC%A7%80%ED%86%B5.png "April_메일_휴지통.png")
     
 2. 관리자 : 김주희
-    + 대쉬보드
+    + 대쉬보드  
+    
     ![April_대쉬보드1.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EB%8C%80%EC%89%AC%EB%B3%B4%EB%93%9C1.png "April_대쉬보드1.png")
+    
     ![April_대쉬보드2.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EB%8C%80%EC%89%AC%EB%B3%B4%EB%93%9C2.png "April_대쉬보드2.png")
     
-    + 조직데이터
+    + 조직데이터  
+    
     ![April_조직 데이터.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EC%A1%B0%EC%A7%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0.png "April_조직 데이터.png")
     
 3. 전사게시판 : 양은영
-    + 전사게시판
+    + 전사게시판  
+    
     ![April_전사게시판.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EC%A0%84%EC%82%AC%EA%B2%8C%EC%8B%9C%ED%8C%90.png "April_전사게시판.png")
 
 4. 업무등록 : 이재원
-    + TODO
+    + TODO  
+    
     ![April_TODO.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_TODO.png "April_TODO.png")
     
 6. 채팅 : 정수연
-    + TODO
+    + Chat  
+    
     ![April_Chat.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_Chat.png "April_Chat.png")
     
 ### 6. 요구사항정의서
