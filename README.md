@@ -86,6 +86,11 @@
     
     ![April_TODO.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_TODO.png "April_TODO.png")
     
+5. 근태관리 및 예약 : 이지은
+    + 근태관리
+    
+    ![April_근태관리.png](https://github.com/MIN-04/Groupware-Project/blob/master/GroupwarePrj/src/main/webapp/WEB-INF/doc/April_%EA%B7%BC%ED%83%9C%EA%B4%80%EB%A6%AC.png "April_근태관리.png")
+
 6. 채팅 : 정수연
     + Chat  
     
